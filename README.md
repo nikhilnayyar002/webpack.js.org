@@ -4,6 +4,7 @@
   </a>
   <h1>webpack.js.org</h1>
 
+  
 [![Build Status][build-status]][build-status-url]
 [![Standard Version][release]][release-url]
 [![chat on gitter][chat]][chat-url]
